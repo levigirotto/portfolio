@@ -3,7 +3,7 @@ import { RiArrowDownWideFill } from "react-icons/ri";
 import { FaLinkedin, FaGithub, FaInstagram } from "react-icons/fa";
 
 const name = "Levi Girotto";
-const description = "Estudante de Engenharia da Computação, Desenvolvedor Web";
+const description = "Estudante de Engenharia da Computação";
 
 export function SocialMedia() {
     return (
