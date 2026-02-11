@@ -2,7 +2,7 @@ import CardTemplate from "@/components/cards/CardTemplate.tsx"
 import { MdEmail, MdPhone } from "react-icons/md";
 import { SocialMedia } from "@/components/MyInfo.tsx"
 
-const text = "Olá, meu nome é Levi e sou um estudante de Engenharia da Computação. Desde criança sempre fui interessado por tecnologia e apaixonado por criar e construir. Recentemente encontrei na área da computação a melhor maneira de por essas aptidões em prática. Atualmente, minhas habilidades estão direcionadas para a área do Desenvolvimento Web, mas sigo explorando diferentes áreas da programação para descobrir qual delas mais combina com meu perfil e objetivos."
+const text = "Olá, meu nome é Levi e sou um estudante de Engenharia da Computação. Desde criança sou interessado por tecnologia e apaixonado por criar e construir. Recentemente encontrei na área da computação a melhor maneira de por essas minhas aptidões em prática. Possuo habilidades na área do desenvolvimento web, mas sigo explorando diferentes áreas da programação para descobrir qual delas mais combina com meu perfil e objetivos."
 
 export default function AboutMeCard() {
     return (
