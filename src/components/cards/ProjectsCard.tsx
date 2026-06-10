@@ -15,9 +15,9 @@ const projects = [
         skillsCovered: [0, 1, 2, 3, 4, 5, 6, 7, 13],
     },
     {
-        name: "Hinário",
-        description: "Um hinário (usado semanalmente)",
-        link: "https://hinario-ten.vercel.app/",
+        name: "Hinário digital",
+        description: "Um hinário (usado com frequência)",
+        link: "https://hinarioweb.vercel.app/",
         videoSrc: "/videos/hinario.mp4",
         skillsCovered: [0, 1, 2, 4, 6],
     }
