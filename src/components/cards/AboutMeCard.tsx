@@ -18,14 +18,14 @@ export default function AboutMeCard() {
                                 <MdEmail size={30}/>
                                 <div className="flex flex-col">
                                     <h2 className="font-semibold">Email</h2>
-                                    <p>levigirotto18@gmail.com</p>
+                                    <a href="mailto:levigirotto18@gmail.com">levigirotto18@gmail.com</a>
                                 </div>
                             </div>
                             <div className="flex items-center gap-4">
                                 <MdPhone size={30}/>
                                 <div className="flex flex-col">
                                     <h2 className="font-semibold">Telefone</h2>
-                                    <p>+55 19 99217-1984</p>
+                                    <a href="https://wa.me/5519992171984" target="_blank">+55 19 99217-1984</a>
                                 </div>
                             </div>
                         </div>
